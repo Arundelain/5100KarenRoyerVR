@@ -1,0 +1,104 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.08.2018 09:00:41
+
+newmtl Marble
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\3D Projects\Atkinson End Table\sceneassets\images\Marble_dark_CB_COLOR.png
+	map_Kd F:\3D Projects\Atkinson End Table\sceneassets\images\Marble_dark_CB_COLOR.png
+	map_bump F:\3D Projects\Atkinson End Table\sceneassets\images\Marble_dark_CB_OCC.png
+	bump F:\3D Projects\Atkinson End Table\sceneassets\images\Marble_dark_CB_OCC.png
+	map_refl F:\3D Projects\Atkinson End Table\sceneassets\images\Marble_dark_CB_SPEC.png
+
+newmtl Leg
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\3D Projects\Atkinson End Table\sceneassets\images\Leg.jpg
+	map_Kd F:\3D Projects\Atkinson End Table\sceneassets\images\Leg.jpg
+	map_bump F:\3D Projects\Atkinson End Table\sceneassets\images\wood-058_gedu-nohor-1_b.png
+	bump F:\3D Projects\Atkinson End Table\sceneassets\images\wood-058_gedu-nohor-1_b.png
+	map_refl F:\3D Projects\Atkinson End Table\sceneassets\images\wood-058_gedu-nohor-1_r.png
+
+newmtl No_text
+	Ns 53.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1255 0.1059 0.0667
+	Kd 0.1255 0.1059 0.0667
+	Ks 0.7740 0.7740 0.7740
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Map__13
+	Ns 56.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1255 0.1059 0.0667
+	Kd 0.1255 0.1059 0.0667
+	Ks 0.8550 0.8550 0.8550
+	Ke 0.0000 0.0000 0.0000
+
+newmtl wire_149149149
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.5843 0.5843 0.5843
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Brown_Oak
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\3D Projects\Atkinson End Table\sceneassets\images\oak_wood.jpg
+	map_Kd F:\3D Projects\Atkinson End Table\sceneassets\images\oak_wood.jpg
+	map_bump F:\3D Projects\Atkinson End Table\sceneassets\images\wood-058_gedu-nohor-1_b.png
+	bump F:\3D Projects\Atkinson End Table\sceneassets\images\wood-058_gedu-nohor-1_b.png
+	map_refl F:\3D Projects\Atkinson End Table\sceneassets\images\wood-058_gedu-nohor-1_r.png
+
+newmtl Table_top
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\3D Projects\Atkinson End Table\sceneassets\images\Table_top_Hires.jpg
+	map_Kd F:\3D Projects\Atkinson End Table\sceneassets\images\Table_top_Hires.jpg
+	map_bump F:\3D Projects\Atkinson End Table\sceneassets\images\wood-058_gedu-nohor-1_b.png
+	bump F:\3D Projects\Atkinson End Table\sceneassets\images\wood-058_gedu-nohor-1_b.png
+	map_refl F:\3D Projects\Atkinson End Table\sceneassets\images\wood-058_gedu-nohor-1_r.png

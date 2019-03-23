@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: e0eaf6089d000534587ac64d81d0c49b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Back_granite
+    100004: Bottom_drawer
+    100006: Box003
+    100008: Drawerfinal
+    100010: Front_granite
+    100012: Left_granite
+    100014: Leg005
+    100016: Leg006
+    100018: Leg007
+    100020: Leg01
+    100022: Right_granite
+    100024: TableTop_final
+    100026: TopBox_final
+    400000: //RootNode
+    400002: Back_granite
+    400004: Bottom_drawer
+    400006: Box003
+    400008: Drawerfinal
+    400010: Front_granite
+    400012: Left_granite
+    400014: Leg005
+    400016: Leg006
+    400018: Leg007
+    400020: Leg01
+    400022: Right_granite
+    400024: TableTop_final
+    400026: TopBox_final
+    2100000: Back_graniteMat
+    2100002: Bottom_drawerMat
+    2100004: Box003Mat
+    2100006: DrawerfinalMat
+    2100008: Front_graniteMat
+    2100010: Left_graniteMat
+    2100012: Leg005Mat
+    2100014: Leg006Mat
+    2100016: Leg007Mat
+    2100018: Leg01Mat
+    2100020: Right_graniteMat
+    2100022: TableTop_finalMat
+    2100024: TopBox_finalMat
+    2300000: Back_granite
+    2300002: Bottom_drawer
+    2300004: Box003
+    2300006: Drawerfinal
+    2300008: Front_granite
+    2300010: Left_granite
+    2300012: Leg005
+    2300014: Leg006
+    2300016: Leg007
+    2300018: Leg01
+    2300020: Right_granite
+    2300022: TableTop_final
+    2300024: TopBox_final
+    3300000: Back_granite
+    3300002: Bottom_drawer
+    3300004: Box003
+    3300006: Drawerfinal
+    3300008: Front_granite
+    3300010: Left_granite
+    3300012: Leg005
+    3300014: Leg006
+    3300016: Leg007
+    3300018: Leg01
+    3300020: Right_granite
+    3300022: TableTop_final
+    3300024: TopBox_final
+    4300000: Back_granite
+    4300002: Bottom_drawer
+    4300004: Box003
+    4300006: Drawerfinal
+    4300008: Front_granite
+    4300010: Left_granite
+    4300012: Leg005
+    4300014: Leg006
+    4300016: Leg007
+    4300018: Leg01
+    4300020: Right_granite
+    4300022: TableTop_final
+    4300024: TopBox_final
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

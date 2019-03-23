@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: d0d94eba169653c4b97a5ee647221ada
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base_Trim:base395_base395
+    100002: base_Trim:doorwayTrim_doorwayTrim
+    100004: base_Trim:towerCeiling_lo1_towerCeiling_lo1
+    100006: corbelDecor
+    100008: corbels
+    100010: corbelTrim
+    100012: firstFloorStairs
+    100014: fourthFloor
+    100016: //RootNode
+    100018: lighthouseRetextured:towerExterior_towerExterior
+    100020: lighthousing_sub:LightHousing_LightHousing
+    100022: lowerRailing:lowerRailing_lowerRailing
+    100024: lowerTowerWindow
+    100026: second_floor_stairs
+    100028: secondFloor
+    100030: third_floor_stairs
+    100032: thirdFloor
+    100034: thirdFloorWindows
+    100036: upperRailing
+    100038: workRoom:keepersWorkroom_keepersWorkroom
+    400000: base_Trim:base395_base395
+    400002: base_Trim:doorwayTrim_doorwayTrim
+    400004: base_Trim:towerCeiling_lo1_towerCeiling_lo1
+    400006: corbelDecor
+    400008: corbels
+    400010: corbelTrim
+    400012: firstFloorStairs
+    400014: fourthFloor
+    400016: //RootNode
+    400018: lighthouseRetextured:towerExterior_towerExterior
+    400020: lighthousing_sub:LightHousing_LightHousing
+    400022: lowerRailing:lowerRailing_lowerRailing
+    400024: lowerTowerWindow
+    400026: second_floor_stairs
+    400028: secondFloor
+    400030: third_floor_stairs
+    400032: thirdFloor
+    400034: thirdFloorWindows
+    400036: upperRailing
+    400038: workRoom:keepersWorkroom_keepersWorkroom
+    2100000: lambert42
+    2100002: lambert44
+    2100004: lambert43
+    2100006: lambert45
+    2100008: lambert46
+    2100010: granite
+    2100012: lighthouseRetextured_lambert39
+    2100014: lighthouseRetextured_exteriorTower_MAT1
+    2100016: lighthouseRetextured_lambert40
+    2100018: lighthouseRetextured_lambert41
+    2100020: lighthouseRetextured_lambert42
+    2100022: lighthouseRetextured_lambert44
+    2100024: lighthouseRetextured_lambert46
+    2100026: lighthouseRetextured_lambert48
+    2100028: base_Trim_lambert2
+    2100030: base_Trim_MAT_tower1
+    2100032: base_Trim_lambert37
+    2100034: base_Trim_lambert38
+    2100036: lowerRailing_railingGreen1
+    2100038: lowerRailing_lambert2
+    2100040: workRoom_lambert38
+    2100042: workRoom_lambert39
+    2100044: workRoom_lambert40
+    2100046: lighthousing_sub_lambert36
+    2100048: lighthousing_sub_lambert38
+    2100050: granite1
+    2300000: base_Trim:base395_base395
+    2300002: base_Trim:doorwayTrim_doorwayTrim
+    2300004: base_Trim:towerCeiling_lo1_towerCeiling_lo1
+    2300006: corbelDecor
+    2300008: corbels
+    2300010: corbelTrim
+    2300012: firstFloorStairs
+    2300014: fourthFloor
+    2300016: lighthouseRetextured:towerExterior_towerExterior
+    2300018: lighthousing_sub:LightHousing_LightHousing
+    2300020: lowerRailing:lowerRailing_lowerRailing
+    2300022: lowerTowerWindow
+    2300024: second_floor_stairs
+    2300026: secondFloor
+    2300028: third_floor_stairs
+    2300030: thirdFloor
+    2300032: thirdFloorWindows
+    2300034: upperRailing
+    2300036: workRoom:keepersWorkroom_keepersWorkroom
+    3300000: base_Trim:base395_base395
+    3300002: base_Trim:doorwayTrim_doorwayTrim
+    3300004: base_Trim:towerCeiling_lo1_towerCeiling_lo1
+    3300006: corbelDecor
+    3300008: corbels
+    3300010: corbelTrim
+    3300012: firstFloorStairs
+    3300014: fourthFloor
+    3300016: lighthouseRetextured:towerExterior_towerExterior
+    3300018: lighthousing_sub:LightHousing_LightHousing
+    3300020: lowerRailing:lowerRailing_lowerRailing
+    3300022: lowerTowerWindow
+    3300024: second_floor_stairs
+    3300026: secondFloor
+    3300028: third_floor_stairs
+    3300030: thirdFloor
+    3300032: thirdFloorWindows
+    3300034: upperRailing
+    3300036: workRoom:keepersWorkroom_keepersWorkroom
+    4300000: second_floor_stairs
+    4300002: firstFloorStairs
+    4300004: third_floor_stairs
+    4300006: thirdFloorWindows
+    4300008: corbelTrim
+    4300010: upperRailing
+    4300012: corbels
+    4300014: lowerTowerWindow
+    4300016: thirdFloor
+    4300018: secondFloor
+    4300020: corbelDecor
+    4300022: lighthouseRetextured:towerExterior_towerExterior
+    4300024: base_Trim:doorwayTrim_doorwayTrim
+    4300026: base_Trim:towerCeiling_lo1_towerCeiling_lo1
+    4300028: base_Trim:base395_base395
+    4300030: lowerRailing:lowerRailing_lowerRailing
+    4300032: workRoom:keepersWorkroom_keepersWorkroom
+    4300034: lighthousing_sub:LightHousing_LightHousing
+    4300036: fourthFloor
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

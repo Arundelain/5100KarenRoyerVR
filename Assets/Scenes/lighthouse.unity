@@ -466,8 +466,8 @@ MonoBehaviour:
   FloorQuad: {fileID: 1520281459093612, guid: 08d25ccfbbc595b4a820c7edd551d095, type: 2}
   boundaryHeight: 10
   opaqueTrackingSpaceType: 1
-  renderFloor: 0
-  renderBoundary: 0
+  renderFloor: 1
+  renderBoundary: 1
 --- !u!1001 &325704237
 Prefab:
   m_ObjectHideFlags: 0

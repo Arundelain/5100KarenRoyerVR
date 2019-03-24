@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>MixedReality213</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\Projects\5100KarenRoyerVR\App\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\Projects\5100KarenRoyerVR\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

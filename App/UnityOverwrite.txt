@@ -5,11 +5,21 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-MixedReality213.sln: modified
+Leap Tour.sln: F0DF10E09283297E423188BEA054A83A
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737
+Leap Tour\App.cs: 55B51DFC799AEDBB42D160ED37D95D9A
+Leap Tour\Leap Tour.csproj: 2A97F8414AC967FF92EA54BAD061B4CC
+Leap Tour\Leap Tour.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+Leap Tour\Package.appxmanifest: 47D8CDEAC4295C26C415E127DDC98E85
+Leap Tour\project.json: 1D02BC64BAC0D041019673A1C4C51737
+Leap Tour\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
+Leap Tour\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
+Leap Tour\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
+Leap Tour\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
+Leap Tour\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
+Leap Tour\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
+Leap Tour\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
 MixedReality213\App.cs: 75A41EA5E831985793B05F483C214947
-MixedReality213\MixedReality213.csproj: 7747278F6FD65B315DF41521FBC799CE
-MixedReality213\MixedReality213.csproj.user: modified
 MixedReality213\Package.appxmanifest: C806385F625E86155E7D2C1EFA6F0840
 MixedReality213\project.json: 1D02BC64BAC0D041019673A1C4C51737
 MixedReality213\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
@@ -25,5 +35,4 @@ MixedReality213\bin\x86\Debug\AppX\Assets\Square44x44Logo.targetsize-24_altform-
 MixedReality213\bin\x86\Debug\AppX\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
 MixedReality213\bin\x86\Debug\AppX\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
 MixedReality213\bin\x86\Debug\AppX\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
-MixedReality213\obj\x86\Debug\MixedReality213.csproj.CopyComplete: D41D8CD98F00B204E9800998ECF8427E
 MixedReality213\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826

@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/MixedReality213Advanced.unity
     guid: be4c8a5f209ee3549bf02bc42c7d821e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/lighthouse.unity
     guid: 26f4ea9e6f520fa4ebc212edf9fb5a50
+  - enabled: 1
+    path: Assets/Scenes/leap.unity
+    guid: 462e94b382ad745458320da978e203d2
